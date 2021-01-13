@@ -1,0 +1,4 @@
+#Wed Dec 09 22:06:18 MSK 2020
+base.0=F\:\\FlutterProjects\\E-commerce-Complete-Flutter-UI-master\\build\\app\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
